@@ -39,9 +39,7 @@ public class CalculationSymbol {
 
     }
 
-    private static double getaDouble(Scanner scanner) {
-        double num1 = scanner.nextDouble();
-        return num1;
+
     }
-}
+
 
